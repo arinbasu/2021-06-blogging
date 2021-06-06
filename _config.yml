@@ -3,7 +3,7 @@ email: arin_basu@pm.me
 description: >- # this means to ignore newlines until "baseurl:"
   This is a simple data driven and tutorial blog from Arindam Basu
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://arinbasu.github.io/2021-06-data-science-musing/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: arinbasu
 github_username:  arinbasu
 theme: jekyll-theme-slate
