@@ -9,6 +9,4 @@ This is an effort to understand how to do blogging using simple tools. There are
 
 [Thoughts](2021-06-07-thoughts.md)
 
-{% for p in site.posts %}
-{{p.title}}
-{% endfor %}
+{{ site.time | date_to_string}}
