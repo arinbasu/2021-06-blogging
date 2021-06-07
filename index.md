@@ -11,6 +11,5 @@ This is an effort to understand how to do blogging using simple tools. There are
 
 [Thoughts](2021-06-07-thoughts.md)
 
-Here's a list of pages: 
 
-{{site.pages}}
+
